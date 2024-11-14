@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VvWipbzfcJFbRKf4W1qnc4LE1Cxas4mGiDLUutTkEZc=",
+  "Source": "library-server",
+  "BasePath": "_content/library-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
